@@ -23,7 +23,6 @@ Original author of these files is Brice Williams, Haider Lab, Georgia Institute 
 
 Directory list:
 
-PartsList.pdf
 CAD
 --detector2018.SLDASM
 --DividedDualPort.PNG

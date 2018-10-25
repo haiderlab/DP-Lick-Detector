@@ -18,7 +18,7 @@ Basic instructions:
 For an overall look at the final product, refer to the images in the Example folder.
 
 These files are provided free of charge and free to reuse.
-Original authors of these files is Brice Williams, Haider Lab, Georgia Institute of Technology
+Original author of these files is Brice Williams, Haider Lab, Georgia Institute of Technology
 
 
 Directory list:

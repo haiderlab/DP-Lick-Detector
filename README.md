@@ -24,30 +24,30 @@ Original authors of these files is Brice Williams, Haider Lab, Georgia Institute
 Directory list:
 
 PartsList.pdf
-CAD
---detector2018.SLDASM
---DividedDualPort.PNG
---DividedDualPort.SLDPRT
---DividedDualPort.STL
---FeedingTube.SLDPRT
---Rod.SLDPRT
---Sensor8mm.SLDPRT
-Circuit
---Data Sheets
-----ds14001.pdf *Data sheet from Diodes incorporated, for ESIA diode*
-----en-ee_sx3070_4070.pdf *Data sheet from Omron, for photosensor*
-----MC78L00A-D-94916.pdf *Data sheet from Semiconductor Components Industries, LLC, for voltage regulator*
---circuit schematic.pdf
---circuit schematic.png
---Circuit.jpg
---DiagramModular.pdf
---DiagramModular.png
---OmronSensor.jpg
---power+bnc leads.png
---SensorToBoard.pdf
---SensorToBoard.png
-Example
---IMG_1316.jpg
---IMG_1522.jpg
---IMG_1524.jpg
+**CAD**
+  detector2018.SLDASM
+  DividedDualPort.PNG
+  DividedDualPort.SLDPRT
+  DividedDualPort.STL
+  FeedingTube.SLDPRT
+  Rod.SLDPRT
+  Sensor8mm.SLDPRT
+**Circuit**
+  Data Sheets
+    ds14001.pdf *Data sheet from Diodes incorporated, for ESIA diode*
+    en-ee_sx3070_4070.pdf *Data sheet from Omron, for photosensor*
+    MC78L00A-D-94916.pdf *Data sheet from Semiconductor Components Industries, LLC, for voltage regulator*
+  circuit schematic.pdf
+  circuit schematic.png
+  Circuit.jpg
+  DiagramModular.pdf
+  DiagramModular.png
+  OmronSensor.jpg
+  power+bnc leads.png
+  SensorToBoard.pdf
+  SensorToBoard.png
+**Example**
+  IMG_1316.jpg
+  IMG_1522.jpg
+  IMG_1524.jpg
 

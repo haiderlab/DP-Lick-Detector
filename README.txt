@@ -3,6 +3,7 @@ Distribution Package for Dual Port Lick Detector
 This distribution package includes files relevant to building the lick detector, described in 
 
 Williams et. al, 2018 "A Novel Device For Real-time Measurement And Manipulation Of Licking Behavior In Head-fixed Mice"
+https://doi.org/10.1152/jn.00500.2018
 
 For more detailed instructions on how to construct the detector, refer to the appendix of the above publication.
 

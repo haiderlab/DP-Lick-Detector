@@ -17,8 +17,15 @@ Basic instructions:
 
 For an overall look at the final product, refer to the images in the Example folder.
 
-These files are provided free of charge and free to reuse.
+——
+This material is licensed under a Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. 
+This means you are free to share and adapt the material in this distribution package, even for commercial gains.
+You must credit the original author of the work, and you must include this license information if you redistribute this content.
+For more information see https://creativecommons.org/licenses/by-sa/4.0/
+
 Original author of these files is Brice Williams, Haider Lab, Georgia Institute of Technology
+See https://doi.org/10.1152/jn.00500.2018 for more information.
+——
 
 
 Directory list:
